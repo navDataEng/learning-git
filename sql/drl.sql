@@ -1,3 +1,4 @@
 select * 
 from hr.employees
-where salary > 1000; 
+where salary > 2000
+order by salary; 
